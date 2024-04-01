@@ -1,0 +1,7 @@
+{
+  "name": "rick-and-morty-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
